@@ -1,15 +1,16 @@
 # Two sum promble
 
 def towSum(nums:list , target:int) -> list:
-    # brutefore aproch
+    # Method 1
     n = len(nums)
 
     # for i in range(n): 
     #     for j in range(i , n-1):
     #         if nums[i] + nums[j] == target:
     #             return [i , j]
-            
     # return None
+
+    #  2 Method
     l , r = 0 , n-1
     while l< r:
         if nums[l] + nums[r] < target:
