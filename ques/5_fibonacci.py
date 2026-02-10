@@ -1,10 +1,13 @@
 def find_fibonacci(num : int) -> int:
     lis = []
-    fib1= 1
-    fib2 = 1
-    for i in range():
+    a , b =0 , 1
+    lis.append(a)
+    lis.append(b)
+    for _ in range(n):
+        a , b = b , b+a
+        lis.append(b)
 
-
+    return lis
 
 
 n = 7

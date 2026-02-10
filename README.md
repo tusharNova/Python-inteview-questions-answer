@@ -93,6 +93,7 @@ find_fibonacci(6)
 - 0-indexed or 1-indexed?
 - Handle negative numbers gracefully
 ```
+[Solution](ques/5_fibonacci.py)
 
 ---
 
