@@ -19,6 +19,7 @@ target = 9
 - Cannot use same element twice
 ```
 
+[Solution](ques/1_twoSum.py)
 ---
 
 ### 2. Reverse a String
